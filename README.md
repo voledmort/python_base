@@ -1,2 +1,2 @@
 # python_base
-python学习基础
+python基础学习
